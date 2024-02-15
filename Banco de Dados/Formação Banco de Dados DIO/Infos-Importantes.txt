@@ -1,0 +1,301 @@
+Formação SQL Database Specialist
+72h | 27 cursos | 7 desafios de projeto | DIO | Avançado
+
+_______________________________________________________________________________________________________________________________________
+Acesso aos desafios de Projeto relizados nesta formação (pastas 1 a 7): https://github.com/castroalves-gabi/database-projects
+
+Acesso às anotações:
+https://brpucrs-my.sharepoint.com/:w:/g/personal/gabrieli_alves_edu_pucrs_br/EbcrQpgXav1HjKx-ZXHd9VkBYhPKaKmrgIKt8njcXZdBmQ?e=lJC2li
+________________________________________________________________________________________________________________________________________
+
+CONTEÚDO:
+
+1 – FUNDAMENTOS DE BANCO DE DADOS 
+
+A - INTRODUÇÃO A BANCO DE DADOS
+
+	Visão Geral da Formação SQL Database Specialist10:46 
+
+	Pré-requisitos para essa formação02:47 
+
+	Apresentação inicial07:30 
+
+	Cenário de dados16:17 
+
+	O que são banco de dados12:53 
+
+	Sistemas de Gerenciamento de Banco de dados - SGBDs13:50 
+
+	Breve histórico de SGBDs16:26 
+
+	Modelo de Banco de Dados Relacional07:13 
+
+	SGBDs mais utilizados pelo mercado23:20 
+
+	A era dos dados e o futuro da modelagem - Parte 116:59 
+
+	A era dos dados e o futuro da modelagem - Parte 204:04 
+
+	Novo cenário e novas tecnologias - E agora? 
+
+B – SGBD 
+
+	Abordagem de SGBDs versus Abordagem Tradicional14:13 
+
+	Natureza Auto-descritiva da Abordagem de Banco de Dados06:17 
+
+	Isolamento Program/data e Abstração08:37 
+
+	Suporte à Múltiplas Visões dos Dados06:01 
+
+	Compartilhamento de dados e Processamento de Transações Multiusuários11:24 
+
+	Abordagem de banco de dados - Quais são os Atores em Banco de Dados13:21 
+
+	Workers em background - Banco de Dados05:15 
+
+	Vantagens de Utilizar a Abordagem de SGBDs25:21 
+
+	Ganhos em utilizar SGBDs11:46 
+
+	Quando não usar SGBDs 
+
+C – MODELAGEM DE DADOS PARA BANCO DE DADOS
+
+	Introdução à Modelagem de dados - Parte 111:43 
+
+	Introdução à Modelagem de dados - Parte 208:11 
+
+	Instalação Mysql Windows14:22 
+
+	PostgreSQL Windows19:41 
+
+	Instalando MySQL no Ubuntu09:32 
+
+	Instalando PostgreSQL no Ubuntu08:25 
+
+	Explorando Comandos básicos SQL 
+
+D – ARQUITETURA DE BANCO DE DADOS 
+
+	Arquitetura de BD: Modelos08:39 
+
+	Arquitetura de BD: Esquema, Instâncias e Estados de um BDs07:20 
+
+	Three-Schema Architecture12:41 
+
+	Linguagens para SGBD06:33 
+
+	Interfaces de SGBDs15:14 
+
+	Ambientes e utilities de SGBD14:06 
+
+	Arquitetura Modelo Cliente-Servidor08:20 
+
+	Classificação de SGBDs05:57 
+
+	Considerações Finais
+_________________________________________________________________
+ 
+2 – MODELO DE ENTIDADE RELACIONAL 
+
+A - FUNDAMENTOS DA MODELAGEM E PROJETO DE BD
+
+B – MODELO DE ER 
+
+	Modelo ER: Tipos de Entidades, Chaves e Atributos14:29 
+	
+	Tipos de Atributos dento do Modelo ER15:00 
+
+	O que é a Entidade Fraca no modelo ER?02:50 
+
+	Exemplo de modelo conceitual - Company12:38 
+
+	Relacionamentos, Papéis e Constraints estruturais07:05 
+
+	Constraints de Relacionamentos Binários07:23 
+
+	Tipos de Entidades Fracas07:51 
+
+	Refinando o Design ER para Company05:01 
+
+	Alternativas - UML06:38 
+
+	Relacionamentos de Alto Grau13:42 
+
+	Exemplificação de Relacionamentos N-ário - Consulta médica07:29 
+
+	Exemplificação Relacionamentos N-ários - Curso e Entrevista11:27
+ 
+C – MODELO RELACIONAMENTO DE ENTIDADE APRIMORADO
+
+	Modelagem de Dados com EER – Enhanced Entity Relationship 
+
+	Modelo EER12:21 
+
+	Herança06:59 
+
+	Especialização e Generalização08:21 
+
+	Generalização versus Especialização10:33 
+
+	Constraints de Generalização e Especialização - parte 111:20 
+
+	Hierarquia & Rede de Especialização13:32 
+
+	Modelagem de Union Types usando Categorias12:59 
+
+	Esquema EER & Definições formais11:37 
+
+	Decisão sobre Design de BD & UML13:27 
+
+	Terminologias Alternativas - parte 105:24 
+
+	Terminologias Alternativas - parte 2
+
+D - DESAFIO DE PROJETO: REFINANDO UM PROJETO CONCEITUAL DE BD - ECOMMERCE
+E- DESAFIO DE PROJETO: CONSTRUINDO UM ESQUEMA CONCEITUAL PARA BD
+_________________________________________________
+
+3 – EXPLORANDO A LINGUAGEM DE CONSULTA A BD SQL 
+
+A – MODELO RELACIONAL E MAPEAMENTO RELACIONAL 
+
+	Apresentação do roteiro do curso06:56 
+
+	Conceitos de Modelo Relacional: Tupla, Atributo e Relação - Parte 110:17 
+
+	Conceitos de Modelo Relacional: Tupla, Atributo e Relação - Parte 207:21 
+
+	Conceitos de Modelo Relacional: Cardinalidade, Domínio e Relação09:04 
+
+	Conceitos de Modelo Relacional: Conjunto de Tuplas04:37 
+
+	Conceitos de Modelo Relacional: Valores Nulos09:44 
+
+	Lógica de predicado dentro do mundo de SGBDs05:29 
+
+	Constraints do Modelo Relacional06:33 
+
+	Constraints Baseadas no Esquema do Banco de Dados12:26 
+
+	SGBDs e Esquemas Relacionais14:15 
+
+	Integridade Referencial de Entidade e Chaves Estrangeiras07:35 
+
+	Mapeamento ER – Relacional11:12 
+
+	Mapeamento de Relacionamentos Binários 1:105:11 
+
+	Mapeamento de Relacionamentos Binários 1:N05:27 
+
+	Mapeamento de Relacionamentos Binários N:M02:32 
+
+	Mapeando atributos para o Modelo Relacional05:00 
+
+	Mapeamento de Relacionamentos N-ários04:56 
+
+	Mapeando os Componentes do EER – parte 109:41 
+
+	Mapeando os Componentes do EER – parte 210:36 
+
+	Estudo de caso: Mapeando o Esquema Conceitual (ER) para Relacional Dentro do Contexto de Ordem de Serviço 
+B – PRIMEIROS PASSOS COM SQL 
+
+	Introdução ao SQL07:54 
+
+	Sublinguagens : Classificações de SQL - DDL04:32 
+
+	Explorando um Primeiro Exemplo utilizando DDL03:16 
+
+	Primeiro Contato com SQL e MySQL12:34 
+
+	Considerações sobre o ambiente do SGBD04:37 
+
+	Criando meu Primeiro Esquema no MySQL – parte 111:18 
+
+	Criando meu Primeiro Esquema no MySQL – parte 214:44 
+
+	Populando o Banco de Dados do Meu Primeiro Exemplo14:19 
+
+	Continuando com as Classificações (DML, DCL e DQL), Statements, Cláusulas, Termos e Esquema13:02 
+
+	Definindo o Esquema Relacional de COMPANY Com SQL29:54 
+
+	Tipos de dados no MySQL06:29 
+
+	Constraints: Especificando Restrições em SQL07:32 
+
+	Queries/Insertion com SQL13:34 
+
+	Adicionando constraints ao nosso Banco de dados24:00 
+
+	Adicionando constraints ao nosso Banco de dados com Alter Table11:43 
+
+	Persistindo informações no banco de dados Employee17:44 
+
+	Recuperando dados com Queries SQL15:08 
+
+	Nomes, Aliasing e Variação de Tuplas – SQL10:46 
+
+	Realizando Queries com Alias10:52 
+
+	When Good Statements Go Bad05:47 
+
+	MySQL e PostgreSQL e suas diferenças 
+
+C – EXPLORANDO QUERIES COM SQL 
+
+	Explorando os Comandos de DDL – Data Definition Language08:30 
+
+	Manipulando o BD com comandos da DDL23:18 
+
+	Elaborando queries SQL com Expressões12:16 
+
+	Submetendo Queries SQL com Expressões ao Banco de dados16:20 
+
+	Introdução a operações de conjuntos com SQL08:07 
+
+	Mais Expressões e Operações de Conjuntos16:07 
+
+	Utilizando operadores Lógicos Like e Between12:32 
+
+	Exemplos de mais operadores lógicos04:38 
+
+	Comandos baseados em operações matemáticas: UNION, INTERSECTION & EXCEPT06:15 
+
+	Vendo na prática como funcionam as operações matemáticas com SQL09:35 
+
+	Nested Queries (Subqueries) com SQL - Parte 109:04 
+
+	Nested Queries (Subqueries) com SQL - Parte 204:21 
+
+	Criando subqueries para recuperar informações no banco de dados09:35 
+
+	Segundo exemplo de utilização de Subqueries SQL03:29 
+
+	Utilizando Exists, Unique e comparação com conjuntos explícitos em Queries SQL 
+D - CRIANDO QUERIES COM FUNÇÕES E CLÁUSULAS DE AGRUPAMENTOS
+E - AGRUPANDO REGISTROS E TABELAS COM JOIN STATEMENT
+F - DESAFIO DE PROJETO: CONSTRUINDO SEU PRIMEIRO PROJETO LÓGICO DE BD
+G - DESAFIO DE PROJETO: CONSTRUA UM PROJETO LÓGICO DE BD DO ZERO
+
+_________________________________________________________________________________
+
+4 - TÉCNICAS AVANÇADAS EM BANCO DE DADOS COM MYSQL
+A - PERSONALIZANDO ACESSOS COM VIEWS
+B - EXPLORANDO CLÁUSULAS DE DDL E ESQUEMAS DE BANCO DE DADOS NO MYSQL
+C - EXPLORANDO LÓGICA DE PROGRAMAÇÃO COM SQL DINÂMICO
+D - OVERVIEW SOBRE AUTOMATIZAÇÃO DE AÇÕES COM TRIGGERS NO MYSQL
+E - FUNDAMENTOS DE INDEXAÇÃO EM SGBDS COM MYSQL
+F - NORMALIZAÇÃO EM BANCO DE DADOS
+G - DESAFIO DE PROJETO: PERSONALIZANDO O BANCO DE DADOS COM ÍNDICES E PROCEDURES
+H - DESAFIO DE PROJETO: PERSONALIZANDO ACESSOS E AUTOMATIZANDO AÇÕES NO MYSQL
+
+__________________________________________________________________________________
+
+5 - TRANSAÇÕES & GERENCIAMENTO DE BANCO DE DADOS COM MYSQL
+A - TRANSAÇÕES DE BANCO DE DADOS COM MYSQL
+B - CONTROLE DE CONCORDÂNCIA EM BANCO DE DADOS COM MYSQL
+C - TÉCNICAS DE RECUPERAÇÃO EM DADOS DE BD COM MYSQL
+D - DESAFIO DE PROJETO: CRIANDO TRANSAÇÕES, EXECUTANDO BACKUP E RECOVERY DE BANCO DE DADOS
